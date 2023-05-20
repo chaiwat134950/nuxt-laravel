@@ -1,0 +1,2 @@
+# nuxt-laravel
+crud api
